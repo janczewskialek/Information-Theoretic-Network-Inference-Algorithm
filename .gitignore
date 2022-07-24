@@ -1,0 +1,17 @@
+kdtree-cpp
+*.cmake
+CMakeCache.txt
+CMakeFiles
+*.swp
+Makefile
+cmake-build-debug
+Real_data
+Test_Data
+Testin
+eigen-3.4.0
+*.a
+*.o
+*.o.d
+*.log
+*.cbp
+TransferEntropy
