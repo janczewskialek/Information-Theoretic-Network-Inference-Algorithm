@@ -7,7 +7,7 @@ Date: 24th July 2022
 Version: 1.0
 
 # Overview
-The project contains the source code for an information-theoretic network inference algoritm. The algorithm utilizes the KSG algorithm I to estimate continuous transfer and conditional transfer entropies following the methodology of (Kraskov et al. [2004]) and (Frenzel and Pompe [2007]), respectively. The embedding history and delays for the KSG algorithm are determined using the Ragwitz criterion (Ragwitz and Kantz, [2002]). Furthermore, the true delay between source and target processes are determined following the method proposed by (Wibral et al. [2013]). Finally, permutation testing is performed to determine the statistical significance of the estimates.
+The project contains the C++ source code for an information-theoretic network inference algoritm. The algorithm utilizes the KSG algorithm I to estimate continuous transfer and conditional transfer entropies following the methodology of (Kraskov et al. [2004]) and (Frenzel and Pompe [2007]), respectively. The embedding history and delays for the KSG algorithm are determined using the Ragwitz criterion (Ragwitz and Kantz, [2002]). Furthermore, the true delay between source and target processes are determined following the method proposed by (Wibral et al. [2013]). Finally, permutation testing is performed to determine the statistical significance of the estimates.
 
 
 **Functions available:**
