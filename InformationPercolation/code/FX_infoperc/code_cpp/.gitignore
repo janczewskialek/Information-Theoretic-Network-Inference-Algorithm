@@ -1,0 +1,17 @@
+CMakeFiles
+.idea
+CMakeCache.txt
+cmake_install.cmake
+test_dailyvecm
+# eigen-3.4.0
+eigen.tar.gz
+core.*
+*.cbp
+Test_Data
+Real_data
+cmake-build-debug
+cmake-build-release
+.name
+.xml
+../../../../.idea/misc.xml
+../../../../.idea/.name

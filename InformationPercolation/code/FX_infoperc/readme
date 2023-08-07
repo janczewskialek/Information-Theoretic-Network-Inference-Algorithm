@@ -1,0 +1,2 @@
+# Run this code in this folder to build the fastvecm module
+python setup.py build_ext --inplace clean --all
